@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ "$1" == "" ]
 then
-	echo "DESEC SECURITY - PING SWEEP"
+	echo " PING SWEEP"
 	echo "Modo de uso: $0 REDE"
 	echo "Exemplo: $0 192.168.5"
 else
